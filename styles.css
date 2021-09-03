@@ -92,7 +92,7 @@ button {
 
 footer {
   border-top: cyan solid 2px;
-  text-align: center;
+  text-align: left;
   background-color: rgb(44, 32, 63);
   color: white;
   padding: 10px;
