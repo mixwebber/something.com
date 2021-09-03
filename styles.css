@@ -7,7 +7,7 @@ body {
 }
 
 .parda {
-  background: rgba(35, 24, 48, 0.5);
+  background: rgba(35, 24, 48, 0.4);
   padding-bottom: 50px;
   padding-top: 80px;
 }
@@ -52,7 +52,7 @@ li {
 
 #main {
   color: rgb(255, 255, 255);
-  background: rgba(23, 13, 36, 0.7);
+  background: rgba(23, 13, 36, 0.6);
   margin-left: auto;
   margin-right: auto;
   margin-top: 15px;
