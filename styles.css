@@ -1,5 +1,5 @@
 body {
-  background-image: url("images/phone.jpg");
+  background-image: url("images/laptop3.jpg");
   background-size: cover;
   height: max-content;
   margin: 0px;
@@ -52,7 +52,7 @@ li {
 
 #main {
   color: rgb(255, 255, 255);
-  background: rgba(23, 13, 36, 0.6);
+  background: rgba(23, 13, 36, 0.9);
   margin-left: auto;
   margin-right: auto;
   margin-top: 15px;
@@ -65,6 +65,7 @@ li {
 }
 
 h3 {
+  color: gold;
   width: 90%;
   margin: 20px;
   border-bottom: cyan solid 1px;
@@ -84,6 +85,9 @@ button {
   border: white solid 1px;
   margin: 20px;
   font-family: "Kaisei HarunoUmi", serif;
+}
+button:hover {
+  background-color: rgb(64, 143, 0);
 }
 
 #murojaatnoma {
@@ -109,4 +113,58 @@ a {
 a:hover {
   color: rgb(187, 252, 58);
   border-bottom: yellowgreen solid 2px;
+}
+
+#biz {
+  background-image: url("images/laptop.jpg");
+  background-size: cover;
+  height: max-content;
+  margin: 0px;
+  font-family: "Kaisei HarunoUmi", serif;
+}
+
+#parda {
+  background: rgba(35, 24, 48, 0.5);
+  padding-bottom: 50px;
+  padding-top: 80px;
+}
+
+#xizmatlar {
+  background-image: url("images/business.jpg");
+  background-size: cover;
+  height: max-content;
+  margin: 0px;
+  font-family: "Kaisei HarunoUmi", serif;
+}
+
+#yangiliklar {
+  background-image: url("images/news.jpg");
+  background-size: cover;
+  height: max-content;
+  margin: 0px;
+  font-family: "Kaisei HarunoUmi", serif;
+}
+
+#maqolalar {
+  background-image: url("images/typewriter.jpg");
+  background-size: cover;
+  height: max-content;
+  margin: 0px;
+  font-family: "Kaisei HarunoUmi", serif;
+}
+
+#aloqa {
+  background-image: url("images/telephone.jpg");
+  background-size: cover;
+  height: max-content;
+  margin: 0px;
+  font-family: "Kaisei HarunoUmi", serif;
+}
+
+input {
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
 }
