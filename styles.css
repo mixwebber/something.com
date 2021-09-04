@@ -9,7 +9,6 @@ body {
 .parda {
   background: rgba(35, 24, 48, 0.2);
   padding-bottom: 50px;
-  padding-top: 0px;
 }
 
 #navbar {
@@ -55,23 +54,21 @@ li {
   margin-right: auto;
   margin-top: 15px;
   margin-bottom: 15px;
-  padding: 40px;
-  width: 50%;
+  padding: 40px 30px;
+  width: 60%;
   align-content: center;
-  padding-left: 40px;
-  padding-right: 40px;
 }
 
 h3 {
   color: gold;
   width: 90%;
-  margin: 20px;
+
   border-bottom: cyan solid 1px;
 }
 
 p {
   width: 90%;
-  margin: 20px;
+  margin: 0px;
 }
 
 button {
@@ -81,7 +78,8 @@ button {
   background-color: rgb(79, 25, 124);
   color: white;
   border: white solid 1px;
-  margin: 20px;
+  margin-top: 20px;
+
   font-family: "Kaisei HarunoUmi", serif;
 }
 button:hover {
@@ -124,7 +122,6 @@ a:hover {
 #parda {
   background: rgba(35, 24, 48, 0.5);
   padding-bottom: 50px;
-  padding-top: 80px;
 }
 
 #xizmatlar {
