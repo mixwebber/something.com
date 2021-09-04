@@ -9,7 +9,7 @@ body {
 .parda {
   background: rgba(35, 24, 48, 0.2);
   padding-bottom: 50px;
-  padding-top: 80px;
+  padding-top: 0px;
 }
 
 #navbar {
@@ -20,8 +20,6 @@ body {
   display: inline-block;
   width: 100vw;
   font-size: 18px;
-  position: fixed;
-  top: 0;
 }
 
 #brand {
